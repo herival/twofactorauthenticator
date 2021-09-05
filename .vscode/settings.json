@@ -1,0 +1,12 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "driver": "SQLite",
+            "database": "${workspaceFolder:factorauth}/var/data.db",
+            "name": "test",
+            "group": "test"
+        }
+    ],
+    "sqltools.useNodeRuntime": true
+}
