@@ -91,6 +91,12 @@
     "laminas/laminas-code": {
         "version": "4.4.2"
     },
+    "lcobucci/clock": {
+        "version": "2.0.0"
+    },
+    "lcobucci/jwt": {
+        "version": "4.0.3"
+    },
     "monolog/monolog": {
         "version": "2.3.2"
     },
@@ -176,6 +182,9 @@
         ]
     },
     "scheb/2fa-email": {
+        "version": "v5.11.0"
+    },
+    "scheb/2fa-trusted-device": {
         "version": "v5.11.0"
     },
     "sebastian/cli-parser": {
